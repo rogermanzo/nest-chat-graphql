@@ -33,7 +33,6 @@ y procedemos a enviar el mensaje:
 finalmente el otro cliente, verá dicho mensaje con el id del remitente:
 
 ![alt text](image-7.png)
-![alt text](image-8.png)
 
 ahora para ver el poder de graphQL (accedemos desde el navegador http://localhost:3000/graphql )
 
