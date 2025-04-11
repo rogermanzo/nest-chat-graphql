@@ -1,0 +1,15 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type MessageResponse {
+  status: String!
+}
+
+type Query {
+  sayHello: String!
+}
+
+type Mutation {
+  sendMessage(content: String!): MessageResponse!
+}
